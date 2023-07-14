@@ -5,8 +5,8 @@ TEST AREA:
 
 // BLAST FURNACE
 //notes:ChadGarion25: This is my favorite legendary pulse rifle from the Black Armory set. It getting sunset was one of the main contributions to me burning out of Destiny 2 for the first time. My only regret is I couldn't get the perfect roll of Feeding Frenzy + Kill Clip |tags:controller,test,can_be_crafted
-dimwishlist:item=3843477312&perks=3433396027,106909392,2779035018,3425386926#notes:What I Have
-dimwishlist:item=3843477312&perks=3433396027,106909392,2779035018,1015611457#notes:What I Wanted
+dimwishlist:item=3843477312&perks=3433396027,106909392,2779035018,3425386926
+dimwishlist:item=3843477312&perks=3433396027,106909392,2779035018,1015611457
 
 ITEMS I WANT WITH SPECIFIC PERKS:
 
