@@ -8,6 +8,10 @@ TEST AREA:
 dimwishlist:item=3843477312&perks=3433396027,106909392,2779035018,3425386926
 dimwishlist:item=3843477312&perks=3433396027,106909392,2779035018,1015611457
 
+// DISPARITY - Primary - Pulse Rifle - Stasis
+//notes:ChadGarion25: This pulse rifle is so far my current favorite for the Kinetic Slot (that hasn't been sunset). It has Rapid Hit so it's good with bosses as well as ok with most ADs. |tags:D25,test,controller
+dimwishlist:item=1751893422&perks=1840239774,106909392,2938480696,1171887445,1607056502
+
 ITEMS I WANT WITH SPECIFIC PERKS:
 
 dimwishlist:item=2349907931&perks=839105230,3230963543,2779035018,2458213969,3988215619#notes:Multikill Clip
