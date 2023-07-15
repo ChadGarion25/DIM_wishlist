@@ -12,12 +12,6 @@ dimwishlist:item=3843477312&perks=-69420,106909392,2779035018,1015611457
 //notes:ChadGarion25: This pulse rifle is so far my current favorite for the Kinetic Slot (that hasn't been sunset). It has Rapid Hit so it's good with bosses as well as ok with most ADs. |tags:D25,test,controller
 dimwishlist:item=1751893422&perks=1840239774,106909392,2938480696,1171887445,1607056502
 
-// Generated using https://48klocs.github.io/wish-list-magic-wand/fingerwave.html
-// Item Name(HIGH ALBEDO)
-//notes:ChadGarion25 (??? D25 ??? / ??? Test ???): Example of Item Notes|tags:D25,Test
-dimwishlist:item=1197486957&perks=839105230,3230963543,3436462433,3592538738,178753455
-dimwishlist:item=1197486957&perks=839105230,3230963543,3436462433,3592538738,384158423
-
 ITEMS I WANT WITH SPECIFIC PERKS:
 
 dimwishlist:item=2349907931&perks=839105230,3230963543,2779035018,2458213969,3988215619#notes:Multikill Clip
@@ -30,9 +24,10 @@ dimwishlist:item=-304659313#notes:#sight_on_shard I've got two options for kinet
 
 CRAFTABLE ITEMS TO SHARD:
 
-dimwishlist:item=-3920310144#notes:#can_be_crafted
-dimwishlist:item=-1526296434#notes:#can_be_crafted
-dimwishlist:item=-4225322581#notes:#can_be_crafted
+//notes:ChadGarion25: Already Crafted, noted for ease of visibility
+dimwishlist:item=-3920310144
+dimwishlist:item=-1526296434
+dimwishlist:item=-4225322581
 
 TEST WISH LIST GENERATOR USING https://48klocs.github.io/wish-list-magic-wand/fingerwave.html
 
