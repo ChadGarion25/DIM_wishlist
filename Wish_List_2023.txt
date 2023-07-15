@@ -4,7 +4,7 @@ description:This contains a list of weapons/amror that I want or don't want an p
 TEST AREA:
 
 // BLAST FURNACE
-//notes:ChadGarion25: This is my favorite legendary pulse rifle from the Black Armory set. It getting sunset was one of the main contributions to me burning out of Destiny 2 for the first time. My only regret is I couldn't get the perfect roll of Feeding Frenzy + Kill Clip |tags:controller,test,can_be_crafted
+//notes:ChadGarion25: This is my favorite legendary pulse rifle from the Black Armory set. It getting sunset was one of the main contributions to me burning out of Destiny 2 for the first time. My only regret is I couldn't get the perfect roll of Feeding Frenzy + Kill Clip TEST |tags:controller,test,can_be_crafted
 dimwishlist:item=3843477312&perks=3433396027,106909392,2779035018,3425386926
 dimwishlist:item=3843477312&perks=3433396027,106909392,2779035018,3425386926
 dimwishlist:item=3843477312&perks=,106909392,2779035018,3425386926
