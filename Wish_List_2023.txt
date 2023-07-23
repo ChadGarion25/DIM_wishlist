@@ -67,6 +67,10 @@ dimwishlist:item=2888266564&perks=1392496348,3230963543,247725512,1015611457,409
 //notes:ChadGarion25 (D25 / seeking_roll): A nice Roll is avialible if you grind Salvation [Recommended Masterwork: Reload Speed or Stability] |tags:D25,seeking_roll
 dimwishlist:item=48643186&perks=4090651448,106909392,247725512,1015611457
 
+// Something New - Primary - Hand Cannon - Stasis
+//notes:ChadGarion25 (D25 / seeking_roll): Statsis option from current event [Recommended Masterwork: Reload Speed or Range] |tags:D25,seeking_roll
+dimwishlist:item=1856262127&perks=4090651448,679225683,2779035018,2458213969
+
 // The Vision - Primary - Sidearm - Arc
 //notes:ChadGarion25 (D25 / seeking_roll): Possible direct successor to Last Dance [Recommended Masterwork: Reload Speed or Stability or Handling] |tags:D25,seeking_roll
 dimwishlist:item=2414141462&perks=445755705,106909392,1631667848,4082225868
@@ -165,6 +169,11 @@ dimwishlist:item=1903182562&perks=3525010810,2985827016,951095735,3194351027
 // Braytech Osprey - Heavy - Rocket Launcher - Void
 //notes:ChadGarion25 (D25 / seeking_roll): A more modern option than other Void options I have [Recommended Masterwork: Velocity] |tags:D25,seeking_roll
 dimwishlist:item=3667553455&perks=3619207468,4104185692
+
+// Crowning Duologue - Heavy - Rocket Launcher - Strand
+//notes:ChadGarion25 (D25 / seeking_roll): The first and currently only strand Rocket Launcher [Recommended Masterwork: Velocity] |tags:D25,seeking_roll
+dimwishlist:item=3256453690&perks=1441682018,2822142346,3300816228,1275731761
+dimwishlist:item=3256453690&perks=1441682018,2985827016,951095735,2396489472
 
 // Just in Case - Heavy - Sword - Solar
 //notes:ChadGarion25 (D25 / seeking_roll): Good roll for Single Target DPS [Recommended Masterwork: Impact] |tags:D25,seeking_roll
