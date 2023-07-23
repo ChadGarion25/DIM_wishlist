@@ -70,6 +70,7 @@ dimwishlist:item=48643186&perks=4090651448,106909392,247725512,1015611457
 // Something New - Primary - Hand Cannon - Stasis
 //notes:ChadGarion25 (D25 / seeking_roll): Statsis option from current event [Recommended Masterwork: Reload Speed or Range] |tags:D25,seeking_roll
 dimwishlist:item=1856262127&perks=4090651448,679225683,2779035018,2458213969
+dimwishlist:item=3240434620&perks=839105230,679225683,247725512,1015611457
 
 // The Vision - Primary - Sidearm - Arc
 //notes:ChadGarion25 (D25 / seeking_roll): Possible direct successor to Last Dance [Recommended Masterwork: Reload Speed or Stability or Handling] |tags:D25,seeking_roll
