@@ -162,6 +162,9 @@ dimwishlist:item=1125217994&perks=981914802,2822142346,3523296417,11612903
 dimwishlist:item=4005780578&perks=1934171651,3721627275,3300816228,4104185692
 dimwishlist:item=4005780578&perks=1263609309,679225683,2779035018,3708227201
 
+// Marsilion-C - Heavy - Grenade Launcher - Solar
+//notes:ChadGarion25 (D25 / seeking_roll): This shows up in DIM and in my memory as craftable. It's apparently not; a bug on Bungie's part. So I still need a solar option, requiering me to get a random roll instead [Recommended Masterwork: Velocity] |tags:D25,seeking_roll
+dimwishlist:item=867154247&perks=3798852852,3301904089,1428297954,1546637391
 
 // Blowout - Heavy - Rocket Launcher - Arc
 //notes:ChadGarion25 (D25 / seeking_roll): A potential Crucible Rocket Launcher worth grinding [Recommended Masterwork: Reload] |tags:D25,seeking_roll
