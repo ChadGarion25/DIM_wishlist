@@ -115,6 +115,10 @@ dimwishlist:item=2832639510&perks=1392496348,3230963543,1428297954,4293542123
 dimwishlist:item=2832639510&perks=1482024992,1885400500,4071163871,4082225868
 dimwishlist:item=2832639510&perks=4090651448,679225683
 
+// Enyo-D - Primary - Submachine Gun - Kinetic
+//notes:ChadGarion25 (D25 / seeking_roll): Not activly farming this weapon, but this is a good roll to keep [Recommended Masterwork: Stability or Reload Speed] |tags:D25,seeking_roll
+dimwishlist:item=1601177201&perks=4090651448,106909392,2779035018,2458213969
+
 // Accrued Redemption - Primary - Bow - Kinetic
 //notes:ChadGarion25 (D25 / seeking_roll): If I come across a random roll version, this is the prefrence [Recommended Masterwork: Draw Time] |tags:D25,seeking_roll
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,247725512
