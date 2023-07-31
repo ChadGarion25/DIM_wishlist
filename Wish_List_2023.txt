@@ -18,7 +18,7 @@ dimwishlist:item=4070357005&perks=839105230,106909392,1523832109,365154968
 
 // Herod-C - Primary - Auto Rifle - Stasis
 //notes:ChadGarion25 (D25 / seeking_roll): A possibly farmable Gambit option [Recommended Masterwork: Range or Reload Speed] |tags:D25,seeking_roll
-dimwishlist:item=1788603939&perks=
+dimwishlist:item=1788603939
 dimwishlist:item=1788603939&perks=839105230,3230963543,1354429876,124408337
 
 // Duty Bound - Primary - Auto Rifle - Kinetic
