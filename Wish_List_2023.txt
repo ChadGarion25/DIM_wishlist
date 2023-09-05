@@ -156,6 +156,7 @@ dimwishlist:item=4287947559&perks=4090651448,106909392,691659142,4082225868
 
 // Harsh Language - Special - Grenade Launcher - Void
 //notes:ChadGarion25 (D25 / seeking_roll): Valid Void Waveframe option [Recommended Masterwork: Velocity] |tags:D25,seeking_roll
+dimwishlist:item=1606497639&perks=3525010810,2822142346,968510818,2610012052
 dimwishlist:item=1606497639&perks=1844523823,2822142346,3592538738,2048641572
 
 // New Pacific Epitaph - Special - Grenade Launcher - Stasis
