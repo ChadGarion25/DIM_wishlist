@@ -125,6 +125,10 @@ dimwishlist:item=2832639510&perks=4090651448,679225683
 //notes:ChadGarion25 (D25 / seeking_roll): Not activly farming this weapon, but this is a good roll to keep [Recommended Masterwork: Stability or Reload Speed] |tags:D25,seeking_roll
 dimwishlist:item=1601177201&perks=4090651448,106909392,2779035018,2458213969
 
+// Point of the Stag - Primary - Bow - Arc
+//notes:ChadGarion25 (D25 / seeking_roll): Another ritual weapon brought back as a vendor random roll from Iron Banner. I'm not hurting for Arc bows; the original ritual version isn't sunset and the crafted arc option is plenty fun. However, there is one perk combo that is somewhat new that may make it worth holding on to as less crowd control and more focus target [Recommended Masterwork: Draw Time] |tags:D25,seeking_roll
+dimwishlist:item=888872889&perks=852209214,3827198035,201365942,555281244,3989629871
+
 // Accrued Redemption - Primary - Bow - Kinetic
 //notes:ChadGarion25 (D25 / seeking_roll): If I come across a random roll version, this is the prefrence [Recommended Masterwork: Draw Time] |tags:D25,seeking_roll
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,247725512
