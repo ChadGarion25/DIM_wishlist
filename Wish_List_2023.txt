@@ -4,6 +4,11 @@ description:This contains a list of weapons/amror that I want or don't want an p
 title: Seeking Random Rolls
 description: Looking for weapons that have specific random rolls Updated 07/22/2023
 
+// Nightshade - Pirmary - Pulse Rifle - Strand
+//notes:ChadGarion25 (D25 / seeking_roll): A old favorite from Year 1 D2 that has been re-released as a strand option. Perks arn't amazing, but I want it at least for archive [Recommended Masterwork: Stability or Reload Speed] |tags:D25,seeking_roll
+dimwishlist:item=1974641289&perks=839105230,3230963543,3828510309,1015611457,744217850
+dimwishlist:item=1974641289&perks=839105230,679225683,3828510309,831391274,744217850
+
 // Sacred Provenance - Primary - Pulse Rifle - Kinetic
 //notes:ChadGarion25 (D25 / seeking_roll): For the longest time, the only aggressive frame option to succed Blast Furnace. Was never able to grind for it, but in case that changes, here is the God Roll [Recommended Masterwork: Stability or Reload Speed] |tags:D25,seeking_roll
 dimwishlist:item=2408405461&perks=839105230,679225683,247725512,1015611457
@@ -124,6 +129,10 @@ dimwishlist:item=1601177201&perks=4090651448,106909392,2779035018,2458213969
 //notes:ChadGarion25 (D25 / seeking_roll): If I come across a random roll version, this is the prefrence [Recommended Masterwork: Draw Time] |tags:D25,seeking_roll
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,247725512
 
+// Nox Perennial V - Special - Fusion Rifle - Strand
+//notes:ChadGarion25 (D25 / seeking_roll): A random roll I can't target, but the 2nd Strand Fusion Rifle added to the game. There is a very specific perk combo I'm after [Recommended Masterwork: Charge Time] |tags:D25,seeking_roll
+dimwishlist:item=2767393525&perks=839105230,2969185026,968510818,2594592626
+
 // Main Ingredient - Special - Fusion Rifle - Arc
 //notes:ChadGarion25 (D25 / seeking_roll): A Vanguard Weapon to fill out my Arc Category [Recommended Masterwork: Charge Time] |tags:D25,seeking_roll
 dimwishlist:item=253196586&perks=2405638014,689005463,3300816228,1600092898
@@ -131,6 +140,10 @@ dimwishlist:item=253196586&perks=2405638014,689005463,3300816228,1600092898
 // Pressurized Precision - Special - Fusion Rifle - Strand
 //notes:ChadGarion25 (D25 / seeking_roll): It's an ugly weapon, but as of entry, only Strand Option I got [Recommended Masterwork: Charge Time] |tags:D25,seeking_roll
 dimwishlist:item=1084190509&perks=839105230,1483536627,3300816228,1799762209
+
+// Persuader - Special - Sniper Rifle - Void
+//notes: ChadGarion25 (D25 / seeking_roll): A void option for crowd control using destabilizing rounds [Recommended Masterwork: Reload Speed or Stability] |tags:D25,seeking_roll
+dimwishlist:item=781498181&perks=839105230,106909392,3619207468,2048641572,744217850
 
 // Sole Survivor - Special - Sniper Rifle - Arc
 //notes:ChadGarion25 (D25 / seeking_roll): Current Season Option for Weapons [Recommended Masterwork: Reload Speed or Stability] |tags:D25,seeking_roll
