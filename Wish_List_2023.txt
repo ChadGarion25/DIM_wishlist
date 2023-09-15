@@ -202,6 +202,12 @@ dimwishlist:item=3667553455&perks=3619207468,4104185692
 dimwishlist:item=3256453690&perks=1441682018,2822142346,3300816228,1275731761
 dimwishlist:item=3256453690&perks=1441682018,2985827016,951095735,2396489472
 
+// Geodetic HSM - Heavy - Sword - Void
+//notes:ChadGarion25 (D25 / seeking_roll): Yes it's green, no it's not the reason I'm seeking specific rolls. The origin trait either by design or by bug allows for better movement in situations where movement is restricted, making it a utility sword as well as being an Ok void option. NOTE - Specific pairings of tratis is important, so pay attention [Recommended Masterwork: Impact] |tags:D25,seeking_roll
+dimwishlist:item=3637669759&perks=1261178282,269888150,776531651,2048641572
+dimwishlist:item=3637669759&perks=1261178282,269888150,3705817207,354401740
+dimwishlist:item=3637669759&perks=3666208348,269888150,1749209109,3913600130
+
 // Just in Case - Heavy - Sword - Solar
 //notes:ChadGarion25 (D25 / seeking_roll): Good roll for Single Target DPS [Recommended Masterwork: Impact] |tags:D25,seeking_roll
 dimwishlist:item=1139727256&perks=3666208348,269888150,1749209109,3913600130
