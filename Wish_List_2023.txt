@@ -238,6 +238,11 @@ dimwishlist:item=1139727256&perks=3666208348,269888150,1749209109,3913600130
 dimwishlist:item=3221722018&perks=839105230,1687452232,3300816228,1546637391
 dimwishlist:item=3221722018&perks=839105230,2680121939,247725512,1546637391
 
+// Circular Logic - Machine Gun - Strand
+//notes:ChadGarion25 (D25 / seeking_roll): Now that Envious Assasin is much more viable, I want to find a roll to replace my current Circular Logic [Recommended Masterwork: Stability or Range or Handling] |tags:D25,seeking_roll
+dimwishlist:item=2187717691&perks=839105230,2420895100,968510818,365154968
+dimwishlist:item=2187717691&perks=4090651448,1087426260,968510818,1546637391
+
 // The Swarm - Heavy - Machine Gun - Arc
 //notes:ChadGarion25 (D25 / seeking_roll): A nice looking option from the Nightfall Selection [Recommended Masterwork: Stability or Reload] |tags:D25,seeking_roll
 dimwishlist:item=2759590322&perks=1840239774,106909392,2779035018,365154968
