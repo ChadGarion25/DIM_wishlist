@@ -216,7 +216,8 @@ dimwishlist:item=1903182562&perks=3525010810,2985827016,951095735,3194351027
 
 // Braytech Osprey - Heavy - Rocket Launcher - Void
 //notes:ChadGarion25 (D25 / seeking_roll): A more modern option than other Void options I have [Recommended Masterwork: Velocity] |tags:D25,seeking_roll
-dimwishlist:item=3667553455&perks=3619207468,4104185692
+dimwishlist:item=3667553455&perks=3525010810,3796465595,968510818,1439600632,744217850
+dimwishlist:item=3667553455&perks=3798852852,3492396210,3300816228,3927722942,744217850
 
 // Crowning Duologue - Heavy - Rocket Launcher - Strand
 //notes:ChadGarion25 (D25 / seeking_roll): The first and currently only strand Rocket Launcher [Recommended Masterwork: Velocity] |tags:D25,seeking_roll
