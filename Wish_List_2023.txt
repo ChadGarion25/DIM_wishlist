@@ -268,8 +268,24 @@ dimwishlist:item=1911078836&perks=3666208348,269888150,1749209109,3650930298
   dimwishlist:item=4220529694&perks=839105230,106909392,3418782618,365154968
 
 // Warlord Dungeon
-//notes:ChadGarion25 (D25 / seeking_roll): Here are the rolls for the Dungeon Weapons I want
+//notes:ChadGarion25 (D25 / seeking_roll): Here are the rolls for the Dungeon Weapons I want NOTE - tactical mag on sidearm adds no rounds to magazine, so not worth it
+dimwishlist:item=3381450498&perks=3798852852,1380253176,3828510309,2428997981
+dimwishlist:item=3381450498&perks=1441682018,3230963543,1556840489,2173046394
+dimwishlist:item=3381450498&perks=1478423395,2822142346,951095735,3673922083
+  dimwishlist:item=839344841&perks=852209214,3311977193,201365942,555281244
+  dimwishlist:item=839344841&perks=1784898267,3827198035,923806249,2652708987
+  dimwishlist:item=839344841&perks=3768438372,16392701,923806249,2652708987
 
+// 2024 Vanguard Weapons
+//notes:ChadGarion25 (D25 / seeking_roll): Here are some of the Vanguard/Nightfall weapons I can pesue 
+dimwishlist:item=3125454907&perks=839105230,689005463,3643424744,1427256713
+dimwishlist:item=3125454907&perks=1482024992,1483536627,968510818,2594592626
+  dimwishlist:item=192784503&perks=852209214,3827198035,201365942,555281244
+
+// 2024 Crucible Weapons
+//notes:ChadGarion25 (D25 / seeking_roll): My Crucible Weapon Rolls (including competative)
+dimwishlist:item=2313726158&perks=839105230,3230963543,247725512,1015611457
+dimwishlist:item=2313726158&perks=3661387068,1087426260,1546637391,2387244414
 
 title: Craftable Weapons
 description: Weapons I can craft, so the rolls represent specfic builds or options to consider using
