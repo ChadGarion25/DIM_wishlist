@@ -68,6 +68,7 @@ dimwishlist:item=1331824604&perks=1840239774,106909392,684456054,2173046394
 
 // Trust - Primary - Hand Cannon - Solar
 //notes:ChadGarion25 (D25 / seeking_roll): I think I can get this from Gambit still [Recommended Masterwork: Reload Speed or Stability] |tags:D25,seeking_roll
+dimwishlist:item=2850664015&perks=4090651448,106909392,247725512,4293542123
 dimwishlist:item=2850664015&perks=4090651448,106909392,247725512,4104185692
 
 // Seventh Seraph Officer Revolver - Primary - Hand Cannon - Kinetic
