@@ -16,6 +16,7 @@ dimwishlist:item=2408405461&perks=839105230,679225683,247725512,1015611457
 // Positive Outlook - Primary - Auto Rifle - Void
 //notes:ChadGarion25 (D25 / seeking_roll): A more modern option to the ageing void autos I have already [Recommended Masterwork: Range or Stability] |tags:D25,seeking_roll
 dimwishlist:item=491078457&perks=4090651448,3230963543,1428297954,2048641572
+dimwishlist:item=491078457&perks=839105230,1885400500,2387244414,776531651
 
 // Seventh Seraph Carbine - Primary - Auto Rifle - Kinetic
 //notes:ChadGarion25 (D25 / seeking_roll): Great looking weapon that drops from the Spire Dungeon [Recommended Masterwork: Range or Stability] |tags:D25,seeking_roll
@@ -32,8 +33,11 @@ dimwishlist:item=435216110&perks=4090651448,106909392,1428297954,4104185692
 dimwishlist:item=1135050595&perks=4090651448,106909392,1428297954,4104185692
 
 // Randy's Throwing Knife - Primary - Scout Rifle - Kinetic
-//notes:ChadGarion25 (D25 / seeking_roll): A Pinical Weapon Classic re-issued as a random roll [Recommended Masterwork: Stability] |tags:D25,seeking_roll
-dimwishlist:item=3292795429&perks=839105230,3230963543,247725512,1015611457
+//notes:ChadGarion25 (D25 / seeking_roll): A Pinical Weapon Classic re-issued as a random roll. The main draw is rapid hit + kinetic tremors as a ballance between AD clear and Major Focus Fire. As optional perks, I would like either Under-Over or Adaptive Munitions as it compensates for kinetic weapons inability to bust shields. Adaptive Munitions in particular could prove to be very useful as it works best against non-matching shields and I don't think there are any Kinetic shields in the game [Recommended Masterwork: Stability or Reload Speed] |tags:D25,seeking_roll
+dimwishlist:item=3292795429&perks=839105230,3230963543,247725512,3891536761
+dimwishlist:item=3292795429&perks=839105230,1087426260,2387244414,1015611457
+dimwishlist:item=3292795429&perks=839105230,679225683,1870851715,1048183818
+
 
 // Servant Leader - Primary - Scout Rifle - Kinetic
 //notes:ChadGarion25 (D25 / seeking_roll): Overlaps with Randy's, but I like hte look of it and I can roll it slightly differently [Recommended Masterwork: Reload Speed or Stability] |tags:D25,seeking_roll
