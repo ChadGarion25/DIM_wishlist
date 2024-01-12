@@ -38,6 +38,10 @@ dimwishlist:item=3292795429&perks=839105230,3230963543,247725512,3891536761
 dimwishlist:item=3292795429&perks=839105230,1087426260,2387244414,1015611457
 dimwishlist:item=3292795429&perks=839105230,679225683,1870851715,1048183818
 
+// Basso Ostinato - Special - Shotgun - Void
+//notes:ChadGarion25 (D25 / seeking_roll): I oriignally got a roll I could live with, but then Envious Assassin was updated to be useful and good, so I want a roll with that [Recommended Masterwork: Range or Reload Speed] |tags:D25,seeking_roll
+dimwishlist:item=2573900604&perks=4090651448,2420895100,968510818,2048641572
+dimwishlist:item=2573900604&perks=1482024992,106909392,968510818,2048641572
 
 // Servant Leader - Primary - Scout Rifle - Kinetic
 //notes:ChadGarion25 (D25 / seeking_roll): Overlaps with Randy's, but I like hte look of it and I can roll it slightly differently [Recommended Masterwork: Reload Speed or Stability] |tags:D25,seeking_roll
