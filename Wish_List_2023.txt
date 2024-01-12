@@ -93,10 +93,10 @@ dimwishlist:item=1856262127&perks=4090651448,679225683,2779035018,2458213969
 dimwishlist:item=3240434620&perks=839105230,679225683,247725512,1015611457
 
 // Heliocentric QSC - Sidarm - Solar
-//notes:ChadGarion25 (D25 / seeking_roll): A non-farmable random roll, could be a nice fit, though has some overlap with Drang [Recommended Masterwork: Range or Reload Speed or Stability or Handling] |tags:D25,seeking_roll
-dimwishlist:item=3998080529&perks=4090651448,106909392,3828510309,4104185692
-dimwishlist:item=3998080529&perks=1840239774,3230963543,3017780555,4293542123
-dimwishlist:item=3998080529&perks=1392496348,3177308360,1428297954,4104185692
+//notes:ChadGarion25 (D25 / seeking_roll): Drang is good, this is by most accounts very much worth trying to get. The first roll will be my priority, the 2nd and 3rd options are alternate perks to consider [Recommended Masterwork: Reload Speed or Stability] |tags:D25,seeking_roll
+dimwishlist:item=3998080529&perks=4090651448,106909392,3017780555,4104185692
+dimwishlist:item=3998080529&perks=1482024992,3230963543,3523296417,555281244
+dimwishlist:item=3998080529&perks=1840239774,3177308360,3828510309,4293542123
 
 // The Vision - Primary - Sidearm - Arc
 //notes:ChadGarion25 (D25 / seeking_roll): Possible direct successor to Last Dance [Recommended Masterwork: Reload Speed or Stability or Handling] |tags:D25,seeking_roll
@@ -108,8 +108,9 @@ dimwishlist:item=213264394&perks=4090651448,679225683,1428297954,3891536761
 dimwishlist:item=927835311&perks=4090651448,679225683,1428297954,3891536761
 
 // Senuna SI6 - Primary - Sidearm - Stasis
-//notes:ChadGarion25 (D25 / seeking_roll): A possible spiritual succesor to Last Dance [Recommended Masterwork: Reload Speed or Stability] |tags:D25,seeking_roll
-dimwishlist:item=5159537&perks=1482024992,679225683,2779035018,124408337
+//notes:ChadGarion25 (D25 / seeking_roll): A possible spiritual succesor to Last Dance [Recommended Masterwork: Stability] |tags:D25,seeking_roll
+dimwishlist:item=5159537&perks=839105230,1885400500,1631667848,691659142
+dimwishlist:item=5159537&perks=1392496348,1968497646,2779035018,124408337
 
 // The Keening - Primary - Sidearm - Arc
 //notes:ChadGarion25 (D25 / seeking_roll): Possible target for Crucible Engrams [Recommended Masterwork: Stability or Reload Speed] |tags:D25,seeking_roll
@@ -154,8 +155,9 @@ dimwishlist:item=888872889&perks=852209214,3827198035,201365942,555281244,398962
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,247725512
 
 // Nox Perennial V - Special - Fusion Rifle - Strand
-//notes:ChadGarion25 (D25 / seeking_roll): A random roll I can't target, but the 2nd Strand Fusion Rifle added to the game. There is a very specific perk combo I'm after [Recommended Masterwork: Charge Time] |tags:D25,seeking_roll
-dimwishlist:item=2767393525&perks=839105230,2969185026,968510818,2594592626
+//notes:ChadGarion25 (D25 / seeking_roll): A random roll I can't target, but the 2nd Strand Fusion Rifle added to the game. There is a very specific perk combo I'm after. NOTE - the 2nd set of wish list entries perk wise are extra perk options if focused in Lost Sector; Envious Assin and Controlled Burst are not negotiable [Recommended Masterwork: Charge Time] |tags:D25,seeking_roll
+dimwishlist:item=2767393525&perks=839105230,689005463,968510818,2594592626
+dimwishlist:item=2767393525&perks=4090651448,1483536627,1556840489,1754714824
 
 // Main Ingredient - Special - Fusion Rifle - Arc
 //notes:ChadGarion25 (D25 / seeking_roll): A Vanguard Weapon to fill out my Arc Category [Recommended Masterwork: Charge Time] |tags:D25,seeking_roll
@@ -207,7 +209,8 @@ dimwishlist:item=4005780578&perks=1263609309,679225683,2779035018,3708227201
 
 // Marsilion-C - Heavy - Grenade Launcher - Solar
 //notes:ChadGarion25 (D25 / seeking_roll): This shows up in DIM and in my memory as craftable. It's apparently not; a bug on Bungie's part. So I still need a solar option, requiering me to get a random roll instead [Recommended Masterwork: Velocity] |tags:D25,seeking_roll
-dimwishlist:item=867154247&perks=3798852852,3301904089,1428297954,1546637391
+dimwishlist:item=867154247&perks=3798852852,3301904089,968510818,1546637391
+dimwishlist:item=867154247&perks=3525010810,1771897777,968510818,3194351027
 
 // Cold Comfort - Heavy - Rocket Launcher - Stasis
 //notes:ChadGarion25 (D25 / seeking_roll): Stasis isn't great right now, but this can run chill clip and envious assasin, worth shooting for [Recommended Masterwork: Velocity or Handling] |tags:D25,seeking_roll
@@ -309,6 +312,7 @@ dimwishlist:item=2738601016&perks=3525010810,1771897777,968510818,1546637391,283
 dimwishlist:item=4039572196&perks=4090651448,3230963543,1428297954,365154968,2120661319
 dimwishlist:item=3165143747&perks=852209214,3827198035,247725512,1015611457,3988215619
 dimwishlist:item=4248997900&perks=4090651448,732557052,968510818,557221067,2988596335
+dimwishlist:item=2653171212&perks=839105230,106909392,1354429876,2610012052
 
 // Iron Banner Weapons
 //notes: ChadGarion25 (D25 / seeking_roll): Iron Banner Choices
@@ -316,6 +320,19 @@ dimwishlist:item=3166250992&perks=4090651448,3230963543,247725512,2458213969,212
 dimwishlist:item=3166250992&perks=1482024992,679225683,1820235745,4104185692,2120661319
 dimwishlist:item=2189073092&perks=839105230,3230963543,3828510309,365154968
 dimwishlist:item=2189073092&perks=839105230,679225683,923806249,95528736
+
+// Lost Sector - Season 23
+//notes:ChadGarion25 (D25 / seeking_roll): Here are the rolls I'm looking for in Lost Sector Weapons during Season of the Wish
+dimwishlist:item=3678653083&perks=839105230,106909392,3418782618,4104185692
+dimwishlist:item=358788212&perks=839105230,106909392,3828510309,4104185692
+dimwishlist:item=664109750&perks=1482024992,106909392,25606670,2610012052
+
+// World Drops - Season 23
+//notes:ChadGarion25 (D25 / seeking_roll): Here are the rolls for new World Drops in Season of the Wish that are not yet feasible to focus for
+dimwishlist:item=3926811686&perks=839105230,106909392,3828510309,4104185692
+dimwishlist:item=3926811686&perks=4090651448,3230963543,3017780555,1870851715
+dimwishlist:item=4233375372&perks=839105230,106909392,923806249,95528736
+dimwishlist:item=4233375372&perks=839105230,3230963543,3400784728,95528736
 
 title: Craftable Weapons
 description: Weapons I can craft, so the rolls represent specfic builds or options to consider using
@@ -432,8 +449,9 @@ dimwishlist:item=-3138208275&perks=
 dimwishlist:item=-617501162&perks=
 
 // Last Foray - Special - Sniper - Solar
-//notes:ChadGarion25 (D25 / trash_personal): Wish List suggestions said only good for legendary shards effectively |tags:D25,trash_personal
-dimwishlist:item=-1106635211&perks=
+//notes:ChadGarion25 (D25 / seeking_roll): I've changed my mind about this weapon; it's not amazing, but if I get a specifc roll on it, I'll keep it for now |tags:D25,seeking_roll
+dimwishlist:item=1106635211&perks=839105230,106909392,968510818,2896038713
+dimwishlist:item=1106635211&perks=1392496348,1087426260,1556840489,4104185692
 
 // Bite of the Fox - Special - Sniper - Kinetic
 //notes:ChadGarion25 (D25 / trash_personal): Ugly Iron Banner hard to Farm |tags:D25,trash_personal
