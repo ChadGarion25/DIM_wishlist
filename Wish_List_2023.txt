@@ -342,6 +342,10 @@ dimwishlist:item=3926811686&perks=4090651448,3230963543,3017780555,1870851715
 dimwishlist:item=4233375372&perks=839105230,106909392,923806249,95528736
 dimwishlist:item=4233375372&perks=839105230,3230963543,3400784728,95528736
 
+// Quick Drop
+//notes:ChadGarion25 (D25 / seeking_roll): Quick List of Weapons I can't be bothered to make full entry for
+dimwishlist:item=781498181&perks=839105230,106909392,247725512,555281244
+
 title: Craftable Weapons
 description: Weapons I can craft, so the rolls represent specfic builds or options to consider using
 
