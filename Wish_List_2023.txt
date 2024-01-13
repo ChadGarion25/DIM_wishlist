@@ -266,6 +266,10 @@ dimwishlist:item=2759590322&perks=1840239774,3230963543,1359896290,1546637391
 dimwishlist:item=487205709&perks=839105230,1885400500,247725512,365154968
 dimwishlist:item=487205709&perks=4090651448,1968497646,3523296417,11612903
 
+// The Showrunner - Primary - Submachine Gun - Kineitic
+//notes:ChadGarion25 (D25 / seeking_roll): Not a priroirty, but here is the roll I would prefer [Recommended Masterwork: Range or Stability |tags:D25,seeking_roll
+dimwishlist:item=1999754402&perks=1467527085,1885400500,1631667848,3891536761
+
 title: Group Weapons
 description: Rather than making individual enteries for certain weapons, I do them in a batch with a broad title for time conservation with specific rolls I'm searching for
 
