@@ -54,7 +54,8 @@ dimwishlist:item=996109059&perks=4090651448,106909392,3619207468,3891536761
 
 // Perses-D - Primary - Scout Rifle - Stasis
 //notes:ChadGarion25 (D25 / seeking_roll): Great looking rifle, want a good roll for use and later archive [Recommended Masterwork: Reload Speed or Stability] |tags:D25,seeking_roll
-dimwishlist:item=1019000888&perks=1840239774,106909392,247725512,124408337
+dimwishlist:item=1019000888&perks=839105230,106909392,247725512,3038247973
+dimwishlist:item=1019000888&perks=1840239774,3230963543,247725512,124408337
 
 // Warden's Law (Adept) - Hand Cannon - Kinetic
 //notes:ChadGarion25 (D25 / seeking_roll): New Nightfall weapon added this season; brand new frame that fires Two-Burst. Similar to Crimson. I was fortunate enough to be able to grind it owing to a glitch, but I'll still put down my prefered rolls [Recommended Masterwork: Reload Speed] |tags:D25,seeking_roll
@@ -148,7 +149,7 @@ dimwishlist:item=2832639510&perks=4090651448,679225683
 
 // Enyo-D - Primary - Submachine Gun - Kinetic
 //notes:ChadGarion25 (D25 / seeking_roll): Not activly farming this weapon, but this is a good roll to keep [Recommended Masterwork: Stability or Reload Speed] |tags:D25,seeking_roll
-dimwishlist:item=1601177201&perks=4090651448,106909392,2779035018,2458213969
+dimwishlist:item=1601177201&perks=839105230,106909392,2779035018,2458213969
 
 // Point of the Stag - Primary - Bow - Arc
 //notes:ChadGarion25 (D25 / seeking_roll): Another ritual weapon brought back as a vendor random roll from Iron Banner. I'm not hurting for Arc bows; the original ritual version isn't sunset and the crafted arc option is plenty fun. However, there is one perk combo that is somewhat new that may make it worth holding on to as less crowd control and more focus target [Recommended Masterwork: Draw Time] |tags:D25,seeking_roll
@@ -346,6 +347,7 @@ dimwishlist:item=4233375372&perks=839105230,3230963543,3400784728,95528736
 // Quick Drop
 //notes:ChadGarion25 (D25 / seeking_roll): Quick List of Weapons I can't be bothered to make full entry for
 dimwishlist:item=781498181&perks=839105230,106909392,247725512,555281244
+dimwishlist:item=2566006935&perks=4090651448,3230963543,2387244414,4082225868
 
 title: Craftable Weapons
 description: Weapons I can craft, so the rolls represent specfic builds or options to consider using
