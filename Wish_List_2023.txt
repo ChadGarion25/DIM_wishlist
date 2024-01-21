@@ -79,6 +79,7 @@ dimwishlist:item=1331824604&perks=1840239774,106909392,684456054,2173046394
 //notes:ChadGarion25 (D25 / seeking_roll): I think I can get this from Gambit still [Recommended Masterwork: Reload Speed or Stability] |tags:D25,seeking_roll
 dimwishlist:item=2850664015&perks=4090651448,106909392,247725512,4293542123
 dimwishlist:item=2850664015&perks=4090651448,106909392,247725512,4104185692
+dimwishlist:item=2850664015&perks=4090651448,106909392,247725512,3038247973
 
 // Seventh Seraph Officer Revolver - Primary - Hand Cannon - Kinetic
 //notes:ChadGarion25 (D25 / seeking_roll): Nice looking weapon, going to try Reconstruction on it [Recommended Masterwork: Range or Stability] |tags:D25,seeking_roll
@@ -310,6 +311,16 @@ dimwishlist:item=1612781792&perks=4090651448,791862061,691659142,968510818,40914
 dimwishlist:item=1612781792&perks=1300023272,3142289711,3300816228,1546637391,4091460919
 dimwishlist:item=1612781792&perks=466087222,1087426260,706527188,4104185692,4091460919
 dimwishlist:item=409551876&perks=4090651448,679225683,247725512,3708227201
+
+// 2024 Gambit Weapons
+//notes:ChadGarion25 (D25 / seeking_roll): My Gambit Weapon Rolls
+dimwishlist:item=2026755633&perks=839105230,3230963543,3828510309,3891536761
+dimwishlist:item=2026755633&perks=839105230,1885400500,3700496672,95528736
+dimwishlist:item=3738678140&perks=4090651448,106909392,1556840489,4104185692
+dimwishlist:item=3738678140&perks=1482024992,679225683,3300816228,1546637391
+dimwishlist:item=3738678140&perks=1482024992,3142289711,1631667848,3708227201
+dimwishlist:item=676270382&perks=839105230,106909392,3038247973,4104185692
+dimwishlist:item=875848769&perks=839105230,1885400500,4071163871,4104185692
 
 // 2024 Trials Weapons
 //notes:ChadGarion25 (D25 / seeking_roll): My Trials Weapon Rolls
